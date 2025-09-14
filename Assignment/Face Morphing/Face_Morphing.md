@@ -1,4 +1,4 @@
-# Triangulations and Face Morphing – Summary
+# Triangulations and Face Morphing
 
 ## Introduction
 - Face morphing is widely used in apps and media, enabling smooth transformation from one face to another.  
